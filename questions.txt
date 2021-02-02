@@ -1,4 +1,12 @@
 1. github
 2. a set up everything correctly screen
 3. when you go to / you get a 404 when you go to /polls there is the "Hello, world. You're at the polls index." message
-4. 
+4. sets up SQL needed for tables and creates tables in database to store polls data needs to be run every time you change your models. 
+5. admin stuff, user and auth settings and poll settings. I assume if you add more models if we set up admin interaction it would show up here.
+6. You're looking at question 38. when going to /polls/38
+   when going to /polls/38/results You're looking at the results of question 38.
+   when going to /polls/38/vote You're voting on question 38.
+   404 when using a string.
+   <str:question_id> I assume?
+7. more work when updating. code is less 'mobile'
+8. 

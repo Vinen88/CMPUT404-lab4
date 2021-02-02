@@ -1,4 +1,4 @@
-1. github
+1. https://github.com/Vinen88/CMPUT404-lab4.git
 2. a set up everything correctly screen
 3. when you go to / you get a 404 when you go to /polls there is the "Hello, world. You're at the polls index." message
 4. sets up SQL needed for tables and creates tables in database to store polls data needs to be run every time you change your models. 
@@ -8,5 +8,5 @@
    when going to /polls/38/vote You're voting on question 38.
    404 when using a string.
    <str:question_id> I assume?
-7. more work when updating. code is less 'mobile'
-8. 
+7. more work when updating. same reason you dont want to repeat yourself in general. Need to change in two place instead of 1 code is less 'mobile'
+8. faster to build site and it looks good. downsides are it's generic and you wouldnt be able to use for professional applications. 
